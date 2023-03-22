@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algrothims ass 1 draft", "algrothims ass 1 draft\algrothims ass 1 draft.csproj", "{342E636D-EF97-4F50-90C6-6AC627FAB9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342E636D-EF97-4F50-90C6-6AC627FAB9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E636D-EF97-4F50-90C6-6AC627FAB9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E636D-EF97-4F50-90C6-6AC627FAB9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E636D-EF97-4F50-90C6-6AC627FAB9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD01B86-3DFE-4932-A83F-EA6D598E7D89}
+	EndGlobalSection
+EndGlobal
